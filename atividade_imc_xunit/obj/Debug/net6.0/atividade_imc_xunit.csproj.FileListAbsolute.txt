@@ -1,0 +1,5 @@
+C:\Users\Cayo\Desktop\Backend - xUnit\atividade_imc_xunit\obj\Debug\net6.0\atividade_imc_xunit.csproj.AssemblyReference.cache
+C:\Users\Cayo\Desktop\Backend - xUnit\atividade_imc_xunit\obj\Debug\net6.0\atividade_imc_xunit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cayo\Desktop\Backend - xUnit\atividade_imc_xunit\obj\Debug\net6.0\atividade_imc_xunit.AssemblyInfoInputs.cache
+C:\Users\Cayo\Desktop\Backend - xUnit\atividade_imc_xunit\obj\Debug\net6.0\atividade_imc_xunit.AssemblyInfo.cs
+C:\Users\Cayo\Desktop\Backend - xUnit\atividade_imc_xunit\obj\Debug\net6.0\atividade_imc_xunit.csproj.CoreCompileInputs.cache
